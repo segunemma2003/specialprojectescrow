@@ -1,8 +1,7 @@
 /node_modules
 //build
 //hot
-//storage
-/storage/*.key
+
 /vendor
 .env
 .env.backup
@@ -16,5 +15,4 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/storage
 app.zip
